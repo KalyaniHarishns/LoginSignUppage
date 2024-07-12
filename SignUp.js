@@ -5,7 +5,6 @@ import './LoginSignUp.css';
 const SignUp = () => {
     const [action, setAction] = useState("SignUp");
     const navigate = useNavigate();
-
     return (
         <div className="SignUpcontainer">
             <div className="header">

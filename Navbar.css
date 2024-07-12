@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black;
+    overflow:hidden;
+}
+.nav-item{
+    float:left;
+}
+.nav-link{
+    text-align:center;
+    color:white;
+    display:flex;;
+    padding: 20px ;
+    text-decoration: none;
+}
+.nav-link:hover {
+     background-color: #ddd;
+     color: black;
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
